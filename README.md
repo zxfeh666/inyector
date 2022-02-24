@@ -1,5 +1,6 @@
 # inyector
 commands 
+
 pip install colorama
 
 pip install discord
